@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@gus-am 
-aldyoka
-/
-Steganografi
-Public
-forked from arimogi/Steganografi
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Steganografi/Tugas/Tugas-1/steganografi-lsb/main.py /
-@aldyoka
-aldyoka LSB-1808561091
-Latest commit 5805045 7 hours ago
- History
- 1 contributor
-97 lines (79 sloc)  2.55 KB
-   
 import numpy as np
 from PIL import Image
 
